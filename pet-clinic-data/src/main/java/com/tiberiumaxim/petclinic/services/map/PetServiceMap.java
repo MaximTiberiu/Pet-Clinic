@@ -2,9 +2,11 @@ package com.tiberiumaxim.petclinic.services.map;
 
 import com.tiberiumaxim.petclinic.model.Pet;
 import com.tiberiumaxim.petclinic.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
     @Override
     public Set<Pet> findAll() {
