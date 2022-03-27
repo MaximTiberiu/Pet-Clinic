@@ -1,6 +1,6 @@
 package com.tiberiumaxim.petclinic.services.map;
 
-import com.tiberiumaxim.petclinic.model.BaseEntity;
+import com.tiberiumaxim.petclinic.models.BaseEntity;
 
 import java.util.*;
 

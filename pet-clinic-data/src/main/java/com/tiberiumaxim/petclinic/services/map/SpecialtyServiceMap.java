@@ -1,6 +1,6 @@
 package com.tiberiumaxim.petclinic.services.map;
 
-import com.tiberiumaxim.petclinic.model.Specialty;
+import com.tiberiumaxim.petclinic.models.Specialty;
 import com.tiberiumaxim.petclinic.services.SpecialtyService;
 import org.springframework.stereotype.Service;
 

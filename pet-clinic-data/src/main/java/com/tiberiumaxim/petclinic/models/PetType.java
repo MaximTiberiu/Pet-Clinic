@@ -1,4 +1,4 @@
-package com.tiberiumaxim.petclinic.model;
+package com.tiberiumaxim.petclinic.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

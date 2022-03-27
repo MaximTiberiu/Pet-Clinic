@@ -1,6 +1,6 @@
 package com.tiberiumaxim.petclinic.bootstrap;
 
-import com.tiberiumaxim.petclinic.model.*;
+import com.tiberiumaxim.petclinic.models.*;
 import com.tiberiumaxim.petclinic.services.OwnerService;
 import com.tiberiumaxim.petclinic.services.PetTypeService;
 import com.tiberiumaxim.petclinic.services.SpecialtyService;

@@ -1,4 +1,4 @@
-package com.tiberiumaxim.petclinic.controller;
+package com.tiberiumaxim.petclinic.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

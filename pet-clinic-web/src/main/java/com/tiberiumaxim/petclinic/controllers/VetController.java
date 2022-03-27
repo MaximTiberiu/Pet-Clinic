@@ -1,4 +1,4 @@
-package com.tiberiumaxim.petclinic.controller;
+package com.tiberiumaxim.petclinic.controllers;
 
 import com.tiberiumaxim.petclinic.services.VetService;
 import org.springframework.stereotype.Controller;

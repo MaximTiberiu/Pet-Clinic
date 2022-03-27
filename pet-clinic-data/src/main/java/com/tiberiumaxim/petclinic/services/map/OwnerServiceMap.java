@@ -1,7 +1,7 @@
 package com.tiberiumaxim.petclinic.services.map;
 
-import com.tiberiumaxim.petclinic.model.Owner;
-import com.tiberiumaxim.petclinic.model.Pet;
+import com.tiberiumaxim.petclinic.models.Owner;
+import com.tiberiumaxim.petclinic.models.Pet;
 import com.tiberiumaxim.petclinic.services.OwnerService;
 import com.tiberiumaxim.petclinic.services.PetService;
 import com.tiberiumaxim.petclinic.services.PetTypeService;
